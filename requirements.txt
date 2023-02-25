@@ -1,0 +1,5 @@
+camelot-py[base]
+camelot-py[plot]
+pandas
+
+
